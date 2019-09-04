@@ -1,0 +1,14 @@
+{
+  "name": "chrome-headless",
+  "version": "1.0.0",
+  "description": "chrome headless example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lorenzo Millucci",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  }
+}
